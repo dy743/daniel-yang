@@ -13,7 +13,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Daniel Jinghan Yang | Full-Stack AI Engineer',
+  title: 'Courtny Thomas | Full-Stack AI Engineer',
   description: 'Full-Stack AI Engineer with 7+ years of experience building production AI-powered applications',
 }
 

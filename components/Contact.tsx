@@ -43,7 +43,7 @@ const socialLinks = [
   {
     icon: ExternalLink,
     label: 'Portfolio',
-    href: 'https://daniel-yang.vercel.app',
+    href: 'https://courtny-thomas.vercel.app',
     color: 'hover:bg-purple-600 hover:text-white',
   },
 ]

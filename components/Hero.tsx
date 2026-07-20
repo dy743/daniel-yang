@@ -107,7 +107,7 @@ export default function Hero() {
               <span>GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/daniel-jinghan-yang-911a80398"
+              href="https://linkedin.com/in/courtny-thomas-911a80398"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
@@ -123,7 +123,7 @@ export default function Hero() {
               <span>Email</span>
             </a>
             <a
-              href="https://daniel-yang.vercel.app"
+              href="https://courtny-thomas.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 border-2 border-slate-300 text-slate-700 rounded-lg hover:border-slate-400 hover:bg-slate-50 transition-colors"

@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="text-center md:text-left">
             <p className="text-slate-400">
-              © {currentYear} Daniel Jinghan Yang. All rights reserved.
+              © {currentYear} Courtny Thomas. All rights reserved.
             </p>
             <p className="text-sm text-slate-500 mt-1">
               Built with Next.js, TypeScript, and Tailwind CSS
@@ -28,7 +28,7 @@ export default function Footer() {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com/in/daniel-jinghan-yang-911a80398"
+              href="https://linkedin.com/in/courtny-thomas-911a80398"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-slate-800 transition-colors"
