@@ -49,7 +49,7 @@ export default function Hero() {
         >
           <motion.div variants={itemVariants}>
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-slate-900 mb-4">
-              Daniel Jinghan 
+              Daniel Jinghan Yang
             </h1>
           </motion.div>
 
