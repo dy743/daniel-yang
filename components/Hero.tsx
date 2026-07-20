@@ -49,7 +49,7 @@ export default function Hero() {
         >
           <motion.div variants={itemVariants}>
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-slate-900 mb-4">
-              Daniel Jinghan Yang
+              Courtny Thomas
             </h1>
           </motion.div>
 
@@ -116,7 +116,7 @@ export default function Hero() {
               <span>LinkedIn</span>
             </a>
             <a
-              href="mailto:danielyang452@gmail.com"
+              href="mailto:bizboss919@gmail.com"
               className="flex items-center gap-2 px-4 py-2 bg-slate-200 text-slate-900 rounded-lg hover:bg-slate-300 transition-colors"
             >
               <Mail size={18} />
@@ -137,10 +137,10 @@ export default function Hero() {
             variants={itemVariants}
             className="pt-8 flex items-center justify-center gap-4 text-sm text-slate-500"
           >
-            <span>📍 Katy, TX</span>
+            <span>📍 Columbia, SC</span>
             <span>•</span>
             <a href="tel:+14099167519" className="hover:text-slate-700 transition-colors">
-              (409) 916-7519
+              (209) 445-3813
             </a>
           </motion.div>
         </motion.div>

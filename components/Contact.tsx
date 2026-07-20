@@ -7,21 +7,21 @@ const contactMethods = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'danielyang452@gmail.com',
-    href: 'mailto:danielyang452@gmail.com',
+    value: 'bizboss919@gmail.com',
+    href: 'mailto:bizboss919@gmail.com',
     color: 'text-blue-600',
   },
   {
     icon: Phone,
     label: 'Phone',
-    value: '(409) 916-7519',
+    value: '(209) 445-3813',
     href: 'tel:+14099167519',
     color: 'text-green-600',
   },
   {
     icon: MapPin,
     label: 'Location',
-    value: 'Katy, TX 77449',
+    value: 'Columbia, SC 77449',
     href: null,
     color: 'text-red-600',
   },
@@ -37,7 +37,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/daniel-jinghan-yang-911a80398',
+    href: 'https://linkedin.com/in/courtny-thomas-911a80398',
     color: 'hover:bg-blue-600 hover:text-white',
   },
   {

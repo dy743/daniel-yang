@@ -24,7 +24,7 @@ export default function Education() {
             <h3 className="text-2xl font-semibold text-slate-900">
               Bachelor of Science in Computer Software Engineering
             </h3>
-            <p className="text-lg text-slate-600">Houston Christian University</p>
+            <p className="text-lg text-slate-600">University of South Carolina</p>
             <p className="text-slate-500">May 2019</p>
           </div>
         </motion.div>

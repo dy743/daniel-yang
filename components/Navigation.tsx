@@ -38,7 +38,7 @@ export default function Navigation() {
             href="#"
             className="text-xl font-bold text-slate-900 hover:text-primary-600 transition-colors"
           >
-            Daniel Yang
+            Courtny Thomas
           </a>
 
           {/* Desktop Navigation */}
